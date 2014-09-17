@@ -10,6 +10,4 @@ This does not affect the currency in which you take payment.
 
 Conversions are estimated based on data from the Open Source Exchange Rates API with no guarantee whatsoever of accuracy.
 
-/*
-app_ID = e65018798d4a4585a8e2c41359cc7f3c;
-*/
+For license, Contact surendrav124@gmail.com
