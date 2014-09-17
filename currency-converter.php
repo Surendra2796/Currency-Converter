@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Currency_Converter
-Plugin URI: https://github.com/Surendra2796
+Plugin URI: https://github.com/Surendra2796/Currency-Converter
 Description: Adds a currency selection widget - when the user chooses a currency, the stores prices are displayed in the chosen currency dynamically. This does not affect the currency in which you take payment. Conversions are estimated based on data from the Open Source Exchange Rates API with no guarantee whatsoever of accuracy.
 Version: 1.1.0
 Author: Surendra
