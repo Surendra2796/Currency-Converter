@@ -1,6 +1,8 @@
 /*
 Currency Converter Widget for E-Commerce Applications
+
  Author : Surendra Varanasi
+ 
  */
  
 Adds a currency selection widget - when the user chooses a currency, 
